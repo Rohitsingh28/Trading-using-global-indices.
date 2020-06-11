@@ -1,0 +1,6 @@
+Pandas as Pd
+Numpy as np
+Statsmodels.formula.api as smf
+matpoltlib.pyplot as plt
+Import warnings
+Panadas.tools.plotting import scatter_matrix
